@@ -14,6 +14,6 @@ Builder pattern was introduced to solve some of the problems with Factory and Ab
 **If the object is heavy and its creation is complex**, then all that complexity will be part of Factory classes that is confusing.
 
 ## Resources
-<a link= "https://www.digitalocean.com/community/tutorials/builder-design-pattern-in-java" >Builder Design Pattern in Java</a>
+<a href= "https://www.digitalocean.com/community/tutorials/builder-design-pattern-in-java" >Builder Design Pattern in Java</a>
 
-<a link= "https://www.baeldung.com/creational-design-patterns#builder" >Builder Design Pattern<a>
+<a href= "https://www.baeldung.com/creational-design-patterns#builder" >Builder Design Pattern<a>
